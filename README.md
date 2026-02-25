@@ -116,11 +116,11 @@ Comprehensive PC stress testing and monitoring tool
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itszeeshanrajput&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itszeeshanrajput&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true)](https://github.com/Itszeeshanrajput)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itszeeshanrajput&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itszeeshanrajput&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8)](https://github.com/Itszeeshanrajput)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itszeeshanrajput&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Itszeeshanrajput&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)](https://github.com/Itszeeshanrajput)
 
 </div>
 
@@ -153,7 +153,7 @@ const currentGoals = {
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Itszeeshanrajput&theme=react-dark&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Itszeeshanrajput&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Itszeeshanrajput)
 
 ---
 
@@ -197,7 +197,9 @@ const currentGoals = {
 
 ### 🎵 Now Playing
 
-[![Spotify](https://novatorem-itszeeshanrajput.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31l26cwhzuqq7vdqjkdholqkqnqm&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=f85d7f)](https://open.spotify.com/user/31l26cwhzuqq7vdqjkdholqkqnqm)
+
+*Connect your Spotify to see real-time music!*
 
 ---
 
@@ -218,10 +220,19 @@ const currentGoals = {
 
 <div align="center">
 
-![Snake animation](https://github.com/Itszeeshanrajput/Itszeeshanrajput/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Itszeeshanrajput/Itszeeshanrajput/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itszeeshanrajput/Itszeeshanrajput/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itszeeshanrajput/Itszeeshanrajput/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itszeeshanrajput/Itszeeshanrajput/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### Thanks for visiting! 🚀
 
-![Visitor Count](https://profile-counter.glitch.me/Itszeeshanrajput/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Itszeeshanrajput&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+![Followers](https://img.shields.io/github/followers/Itszeeshanrajput?style=for-the-badge&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/Itszeeshanrajput?style=for-the-badge&logo=github&label=Total+Stars)
 
 </div>
