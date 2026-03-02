@@ -195,14 +195,6 @@ const currentGoals = {
 
 ---
 
-### 🎵 Now Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31l26cwhzuqq7vdqjkdholqkqnqm&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=f85d7f)](https://open.spotify.com/user/31l26cwhzuqq7vdqjkdholqkqnqm)
-
-*Connect your Spotify to see real-time music!*
-
----
-
 **⭐ From [Itszeeshanrajput](https://github.com/Itszeeshanrajput)**
 
 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
