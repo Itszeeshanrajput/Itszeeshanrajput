@@ -1,226 +1,225 @@
-# 👋 Hi, I'm Zeeshan Rajput (@404innovator)
+# Hey, I'm Zeeshan Rajput 👨‍💻
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Itszeeshanrajput&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Itszeeshanrajput?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput)
-[![GitHub Stars](https://img.shields.io/github/stars/Itszeeshanrajput?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput)
+**Mobile Firmware Engineer** • **Full-Stack Developer** • **Trading Bot Architect** • **System Optimizer**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Itszeeshanrajput&color=00D9FF&style=flat-square&label=VIEWS)](https://github.com/Itszeeshanrajput)
+[![GitHub Followers](https://img.shields.io/github/followers/Itszeeshanrajput?style=flat-square&logo=github&label=FOLLOWERS&color=00D9FF)](https://github.com/Itszeeshanrajput?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Itszeeshanrajput?style=flat-square&logo=github&label=STARS&color=00D9FF)](https://github.com/Itszeeshanrajput)
 
 </div>
 
-## 🚀 About Me
+---
 
-```python
-class ZeeshanRajput:
-    def __init__(self):
-        self.username = "404innovator"
-        self.role = "Mobile FW Engineer & Full-Stack Developer"
-        self.specialization = ["MTK", "Exynos", "Tensor", "Qualcomm"]
-        self.achievements = "200+ devices revived 🔧"
-        self.passion = ["Flashing", "Performance Enhancement", "ROM Development"]
-        
-    def get_current_focus(self):
-        return [
-            "Automated Trading Systems",
-            "System Optimization Tools",
-            "Mobile Firmware Engineering",
-            "Developer Tools & Utilities"
-        ]
+## 🎯 About Me
+
+```java
+// Who I am at core
+public class ZeeshanRajput {
+    private String identity = "404innovator";
+    private String[] expertise = {
+        "Mobile Firmware Engineering (MTK, Exynos, Tensor, Qualcomm)",
+        "Full-Stack Development (Backend APIs, Web Dashboards)",
+        "Automated Trading Systems & Financial Technology",
+        "Performance Optimization & System Tools"
+    };
     
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together! 🚀")
-
-me = ZeeshanRajput()
-me.say_hi()
+    public void currentMission() {
+        System.out.println("🚀 Building intelligent systems that solve real problems");
+        System.out.println("💎 200+ devices revived | Countless systems optimized");
+        System.out.println("⚡ Turning complexity into elegance through clean code");
+    }
+}
 ```
 
 ---
 
-## 💼 What I Do
+## 💫 What I Build
 
-🔧 **Mobile Firmware Engineer** - Specializing in MTK, Exynos, Tensor & Qualcomm platforms  
-⚡ **Performance Optimizer** - Bringing devices back to life with custom ROMs and tweaks  
-🤖 **Automation Enthusiast** - Building trading bots and system utilities  
-🛠️ **Tool Developer** - Creating utilities that make developers' lives easier
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Specializations
-![MetaTrader5](https://img.shields.io/badge/MetaTrader5-0066CC?style=for-the-badge&logo=metatrader5&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+| Category | Expertise |
+|----------|-----------|
+| **📱 Mobile FW** | MTK • Exynos • Tensor • Qualcomm • Custom ROMs |
+| **🤖 Trading Tech** | MetaTrader5 APIs • Algo Trading • Risk Management |
+| **⚙️ System Tools** | Performance Optimization • Stress Testing • Monitoring |
+| **🌐 Web Dev** | FastAPI • Flask • JavaScript • Real-time Dashboards |
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Arsenal
+
+```
+Languages        Python • C# • C++ • JavaScript • Java • Kotlin
+Frameworks       FastAPI • Flask • .NET • React • Next.js
+Specializations  MetaTrader5 • Android • Windows • Linux
+Databases        SQLite • PostgreSQL • MongoDB • Redis
+DevOps           Git • Docker • GitHub Actions • CI/CD
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&logoWidth=20)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&logoWidth=20)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&logoWidth=20)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=20)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logoWidth=20)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🤖 [MT5-TradeBot API](https://github.com/Itszeeshanrajput/mt5-tradebot-api)
-Professional RESTful API for MetaTrader 5 Expert Advisor Testing & Automation
-- ⚡ FastAPI-based architecture
-- 📊 Advanced backtesting engine
-- 🔄 Real-time trading automation
-- 📈 10+ built-in strategies
+**Enterprise-grade RESTful API for Forex Trading Automation**
+- ⚡ FastAPI with async architecture
+- 📊 Advanced backtesting engine with multi-timeframe analysis
+- 🔄 Real-time order execution & position management
+- 📈 10+ pre-built trading strategies (EMA, RSI, Bollinger, etc.)
+- 🛡️ Risk management & portfolio analytics
 
-**Tech:** `Python` `FastAPI` `MetaTrader5` `Pandas` `NumPy`
+```python
+# Deploy & start automating
+pip install mt5-tradebot-api
+python -m api --mode=live --account=YOUR_MT5
+```
+
+**Stack:** `Python 3.11+` `FastAPI` `MetaTrader5` `Pandas` `NumPy` `Redis`
 
 ---
 
 ### 💹 [TradeEngine](https://github.com/Itszeeshanrajput/TradeEngine)
-Automated Forex Trading Bot with Flask Web Dashboard
-- 🎯 Multi-account management
-- 📊 Real-time monitoring
-- 🧪 Backtesting capabilities
-- 🛡️ Advanced risk management
+**Full-Featured Forex Bot with Beautiful Flask Dashboard**
+- 🎯 Multi-account orchestration
+- 📊 Real-time charts & performance analytics
+- 🧪 Backtesting with walk-forward optimization
+- 🛡️ Position-level risk management
+- 📲 Webhook notifications & alerts
 
-**Tech:** `Python` `Flask` `MT5` `SQLite`
+**Stack:** `Python` `Flask` `SQLite` `Chart.js` `Bootstrap 5`
 
 ---
 
 ### 🔄 [Win11-to-Win10-Transformer](https://github.com/Itszeeshanrajput/Win11-to-Win10-Transformer)
-Transform Windows 11 UI back to Windows 10 style
-- 🎨 40+ registry tweaks
-- 🔙 Built-in restore points
-- ⚡ Full revert capability
-- 🛡️ Safe and reversible
+**Aesthetic Windows 11 → 10 UI Restoration**
+- 🎨 40+ intelligent registry tweaks
+- 🔙 One-click restore points
+- ⚡ Full revert capability built-in
+- 🛡️ Safe, reversible transformations
 
-**Tech:** `C#` `.NET` `Windows Registry`
+**Stack:** `C#` `.NET Framework` `Windows Registry API`
 
 ---
 
 ### 🔥 [Fusion Stress Tester Pro](https://github.com/Itszeeshanrajput/fusion-stress-tester-pro)
-Comprehensive PC stress testing and monitoring tool
-- 💻 CPU, RAM, GPU testing
-- 💾 Disk I/O benchmarking
-- 🌐 Network performance testing
-- 📊 Real-time monitoring
+**Professional System Diagnostics & Stress Testing Suite**
+- 💻 Multi-core CPU benchmarking
+- 🧠 RAM endurance & stability testing
+- 🎮 GPU burn-in testing
+- 💾 Disk I/O performance analysis
+- 🌐 Network bandwidth monitoring
+- 📊 Export results to CSV/JSON
 
-**Tech:** `Python` `CustomTkinter` `psutil`
+**Stack:** `Python` `CustomTkinter` `psutil` `GPU Utilities`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itszeeshanrajput&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true)](https://github.com/Itszeeshanrajput)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itszeeshanrajput&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF&text_color=C9D1D9&hide=stars&card_width=500)](https://github.com/Itszeeshanrajput)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itszeeshanrajput&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8)](https://github.com/Itszeeshanrajput)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itszeeshanrajput&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&card_width=500)](https://github.com/Itszeeshanrajput)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Itszeeshanrajput&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)](https://github.com/Itszeeshanrajput)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Itszeeshanrajput&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=58A6FF&fire=00D9FF&currStreakLabel=58A6FF)](https://github.com/Itszeeshanrajput)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Key Achievements
 
-<div align="center">
-
-📱 **200+ Devices Revived** | 🔧 **Mobile FW Expert** | ⚡ **Performance Guru**
-
-🤖 **Trading Bot Developer** | 🛠️ **Tool Creator** | 💻 **System Optimizer**
-
-</div>
+```
+✨ 200+ Devices Successfully Revived & Restored
+🔧 Expert in 4 Mobile Chipset Ecosystems
+⚡ Performance Optimization Specialist
+🤖 Multiple Automated Trading Systems Deployed
+🛠️ 10+ Developer Tools Created & Published
+💻 Systems Monitoring & Analysis Solutions
+📊 Real-time Data Processing Pipelines
+🌐 Enterprise API Architecture & Design
+```
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What's Next?
 
 ```javascript
-const currentGoals = {
-    learning: ["Advanced Trading Algorithms", "Machine Learning for Trading"],
-    building: ["AI-Powered Trading Bots", "System Optimization Tools"],
-    improving: ["Code Quality", "Documentation", "User Experience"],
-    exploring: ["Blockchain", "DeFi", "Web3"]
+const roadmap2026 = {
+    current: [
+        "🤖 Advanced ML-based Trading Strategies",
+        "🌐 Web3 & DeFi Protocol Integration",
+        "📱 Cross-platform Mobile App Development",
+        "⚙️ AI-powered System Optimization Engine"
+    ],
+    learning: [
+        "🧠 Deep Learning & Time Series Analysis",
+        "🔐 Advanced Cryptography & Security",
+        "🚀 Rust for High-Performance Systems"
+    ],
+    open_source: [
+        "📦 Contributing to major projects",
+        "🛠️ Maintaining community tools",
+        "📚 Writing technical documentation"
+    ]
 };
 ```
 
 ---
 
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Itszeeshanrajput&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Itszeeshanrajput)
-
----
-
-## 🤝 Let's Connect
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itszeeshanrajput@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itszeeshanrajput@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshan-rajput)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/404innovator)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=white)](https://itszeeshanrajput.dev)
 
 </div>
 
 ---
 
-## 💡 Fun Facts
+## 💡 Developer Philosophy
 
-- 🔧 Revived 200+ devices from the dead
-- 🤖 Built multiple automated trading systems
-- 🎯 Passionate about performance optimization
-- 🚀 Always learning and building new things
-- 💻 Love turning complex problems into simple solutions
+> **"Code is not just about making computers work. It's about building systems that make life easier for other humans."**
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+I believe in:
+- 🎯 **Clear & Maintainable Code** - Readability over cleverness
+- 📚 **Comprehensive Documentation** - Future you will thank present you
+- 🧪 **Tested & Reliable** - Quality over speed
+- ⚡ **Performance & Scalability** - Efficient solutions for real problems
+- 🤝 **Community-Driven** - Sharing knowledge & helping others grow
 
 ---
 
 <div align="center">
 
-### 💬 Quote of the Day
+### 🌟 Thanks for Stopping By!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Visitor Count](https://komarev.com/ghpvc/?username=Itszeeshanrajput&color=00D9FF&style=flat-square&label=TOTAL+VISITS)](https://github.com/Itszeeshanrajput)
 
----
+**Let's build something amazing together! 🚀**
 
-**⭐ From [Itszeeshanrajput](https://github.com/Itszeeshanrajput)**
-
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-</div>
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Itszeeshanrajput/Itszeeshanrajput/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Itszeeshanrajput/Itszeeshanrajput/output/github-contribution-grid-snake.svg)
-
-<picture>
-
-### Thanks for visiting! 🚀
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Itszeeshanrajput&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-![Followers](https://img.shields.io/github/followers/Itszeeshanrajput?style=for-the-badge&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/Itszeeshanrajput?style=for-the-badge&logo=github&label=Total+Stars)
+<sub>Last Updated: 2026 • Crafted with ❤️ by [Zeeshan Rajput](https://github.com/Itszeeshanrajput)</sub>
 
 </div>
