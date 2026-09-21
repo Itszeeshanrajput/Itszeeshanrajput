@@ -4,9 +4,9 @@
 
 **Mobile Firmware Engineer** • **Full-Stack Developer** • **Trading Bot Architect** • **System Optimizer**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Itszeeshanrajput&color=00D9FF&style=flat-square&label=VIEWS)](https://github.com/Itszeeshanrajput)
-[![GitHub Followers](https://img.shields.io/github/followers/Itszeeshanrajput?style=flat-square&logo=github&label=FOLLOWERS&color=00D9FF)](https://github.com/Itszeeshanrajput?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Itszeeshanrajput?style=flat-square&logo=github&label=STARS&color=00D9FF)](https://github.com/Itszeeshanrajput)
+[![Profile Views](https://komarev.com/ghpvc/?username=Itszeeshanrajput&color=#00242A&style=flat-square&label=VIEWS)](https://github.com/Itszeeshanrajput)
+[![GitHub Followers](https://img.shields.io/github/followers/Itszeeshanrajput?style=flat-square&logo=github&label=FOLLOWERS&color=#00242A)](https://github.com/Itszeeshanrajput?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Itszeeshanrajput?style=flat-square&logo=github&label=STARS&color=#00242A)](https://github.com/Itszeeshanrajput)
 
 </div>
 
