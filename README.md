@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Zeeshan Rajput <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave" /></h1>
+<h1 align="center">
+  Hi, I'm Zeeshan Rajput <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/Itszeeshanrajput" target="_blank">
@@ -28,19 +30,21 @@
 
 ## About Me
 
-I am a multidisciplinary engineer and developer focused on building efficient, practical, and scalable systems across:
+I build systems that solve real-world problems — with a focus on clean architecture, performance, reliability, and practical impact.
+
+My work spans:
 
 - Mobile firmware and recovery engineering
-- Full-stack application development
+- Full-stack application design
 - Automated trading systems and financial tooling
+- Embedded and networking solutions
 - System optimization and diagnostics
-- Embedded and networking projects
 
-I enjoy solving real-world problems with clean architecture, strong engineering fundamentals, and reliable implementation.
+I enjoy turning complexity into elegant, maintainable software that is useful in the real world.
 
 ---
 
-## Tech Stack
+## Core Stack
 
 <div align="center">
 
@@ -66,12 +70,12 @@ Tools:          Git • Docker • GitHub Actions • CI/CD • Linux • Window
 
 ---
 
-## Featured Projects
+## Featured Work
 
 ### MT5 TradeBot API
 [![Repo](https://img.shields.io/badge/GitHub-mt5--tradebot--api-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/mt5-tradebot-api)
 
-Professional RESTful API for MetaTrader 5 automation, risk management, live execution, and backtesting workflows.
+Enterprise-grade MetaTrader 5 automation framework for live trading, backtesting, risk control, and order workflows.
 
 **Stack:** Python, FastAPI, MetaTrader5, Pandas, NumPy, Redis
 
@@ -80,7 +84,7 @@ Professional RESTful API for MetaTrader 5 automation, risk management, live exec
 ### TradeEngine
 [![Repo](https://img.shields.io/badge/GitHub-TradeEngine-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/TradeEngine)
 
-Automated forex trading system with a Flask dashboard, strategy control, analytics, and multi-account management.
+Automated forex trading platform with dashboard analytics, strategy orchestration, and real-time control systems.
 
 **Stack:** Python, Flask, SQLite, Chart.js, Bootstrap
 
@@ -89,16 +93,16 @@ Automated forex trading system with a Flask dashboard, strategy control, analyti
 ### Fusion Stress Tester Pro
 [![Repo](https://img.shields.io/badge/GitHub-fusion--stress--tester--pro-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/fusion-stress-tester-pro)
 
-A full system diagnostics and stress testing tool for CPU, memory, GPU, storage, and network performance.
+Professional stress-testing and diagnostics utility for CPU, RAM, GPU, storage, and network performance.
 
-**Stack:** Python, CustomTkinter, psutil, system-monitoring tools
+**Stack:** Python, CustomTkinter, psutil, system monitoring
 
 ---
 
 ### Win11-to-Win10 Transformer
 [![Repo](https://img.shields.io/badge/GitHub-Win11--to--Win10--Transformer-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/Win11-to-Win10-Transformer)
 
-Windows 11 to Windows 10 UI restoration toolkit with tweaking and recovery features.
+Windows shell customization toolkit designed to restore the classic Windows 10 experience on Windows 11 systems.
 
 **Stack:** C#, .NET, Windows Registry APIs
 
@@ -107,22 +111,22 @@ Windows 11 to Windows 10 UI restoration toolkit with tweaking and recovery featu
 ### esp32_nat_router
 [![Repo](https://img.shields.io/badge/GitHub-esp32_nat_router-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/esp32_nat_router)
 
-AI-enabled NAT router and firewall project for embedded networking use cases.
+Embedded NAT router and firewall project for ESP32-based networking and smart connectivity experiments.
 
-**Stack:** C, ESP32, Networking, Embedded Systems
+**Stack:** C, ESP32, Embedded Systems, Networking
 
 ---
 
 ### WireTapper
 [![Repo](https://img.shields.io/badge/GitHub-WireTapper-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/WireTapper)
 
-Wireless reconnaissance and OSINT project focused on nearby device discovery and radio intelligence.
+Wireless intelligence and OSINT-focused project for discovering nearby devices and analyzing radio signals.
 
-**Stack:** HTML, JavaScript, Wireless Intelligence, Security Research
+**Stack:** HTML, JavaScript, Wireless Analysis, Security Research
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Itszeeshanrajput&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="180" />
@@ -137,25 +141,23 @@ Wireless reconnaissance and OSINT project focused on nearby device discovery and
 
 ## Current Focus
 
-- Building production-grade automation and monitoring systems
-- Expanding into AI-assisted and high-performance tooling
-- Improving embedded and network-oriented solutions
-- Creating cleaner developer workflows and project documentation
-- Collaborating on meaningful and practical open-source work
+- Building production-ready automation and monitoring systems
+- Expanding into AI-assisted and high-performance engineering
+- Improving embedded, networking, and firmware solutions
+- Writing cleaner, maintainable software with strong documentation
+- Collaborating on impactful, practical open-source projects
 
 ---
 
-## Connect With Me
+## Connect
 
-If you're working on:
+If you're building in any of the following areas, I’d love to connect:
 
-- firmware engineering
-- embedded systems
+- firmware and embedded systems
 - trading automation
 - system optimization
-- network and security tooling
-
-I’d be happy to collaborate.
+- network security and tooling
+- backend platforms and developer tools
 
 - GitHub: https://github.com/Itszeeshanrajput
 - Email: itszeeshanrajput@gmail.com
@@ -170,5 +172,5 @@ I’d be happy to collaborate.
 </p>
 
 <p align="center">
-  <i>Built with curiosity, engineering, and a passion for impactful software.</i>
+  <i>Built with curiosity, engineering discipline, and a passion for meaningful software.</i>
 </p>
