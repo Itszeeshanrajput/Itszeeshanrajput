@@ -1,10 +1,11 @@
-<h1 align="center">
-  Hi, I'm Zeeshan Rajput <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave" />
-</h1>
+<div align="center">
+  <h1 style="color:#E6EDF3; font-size:36px; margin-bottom:8px;">Hi, I'm Zeeshan Rajput</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave" />
+</div>
 
 <p align="center">
   <a href="https://github.com/Itszeeshanrajput" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@Itszeeshanrajput-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-@Itszeeshanrajput-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:itszeeshanrajput@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -21,30 +22,30 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itszeeshanrajput&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Itszeeshanrajput?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Itszeeshanrajput?label=Stars&style=social" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Itszeeshanrajput&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Itszeeshanrajput?label=Followers&style=social&color=58A6FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Itszeeshanrajput?label=Stars&style=social&color=00D9FF" alt="Stars" />
 </p>
 
 ---
 
 ## About Me
 
-I build systems that solve real-world problems — with a focus on clean architecture, performance, reliability, and practical impact.
+I build practical, high-impact systems across engineering, automation, and product-focused software development.
 
 My work spans:
 
 - Mobile firmware and recovery engineering
-- Full-stack application design
+- Full-stack application development
 - Automated trading systems and financial tooling
-- Embedded and networking solutions
-- System optimization and diagnostics
+- Embedded and networking projects
+- Performance optimization and diagnostics
 
-I enjoy turning complexity into elegant, maintainable software that is useful in the real world.
+I enjoy turning complex problems into clean, reliable, and scalable solutions.
 
 ---
 
-## Core Stack
+## Professional Stack
 
 <div align="center">
 
@@ -70,57 +71,57 @@ Tools:          Git • Docker • GitHub Actions • CI/CD • Linux • Window
 
 ---
 
-## Featured Work
+## Featured Projects
 
 ### MT5 TradeBot API
-[![Repo](https://img.shields.io/badge/GitHub-mt5--tradebot--api-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/mt5-tradebot-api)
+[![Repo](https://img.shields.io/badge/GitHub-mt5--tradebot--api-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/mt5-tradebot-api)
 
-Enterprise-grade MetaTrader 5 automation framework for live trading, backtesting, risk control, and order workflows.
+Professional API for MetaTrader 5 automation, order execution, backtesting, and risk-driven trading workflows.
 
 **Stack:** Python, FastAPI, MetaTrader5, Pandas, NumPy, Redis
 
 ---
 
 ### TradeEngine
-[![Repo](https://img.shields.io/badge/GitHub-TradeEngine-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/TradeEngine)
+[![Repo](https://img.shields.io/badge/GitHub-TradeEngine-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/TradeEngine)
 
-Automated forex trading platform with dashboard analytics, strategy orchestration, and real-time control systems.
+Automation platform for forex trading with analytics, dashboard control, and account orchestration.
 
 **Stack:** Python, Flask, SQLite, Chart.js, Bootstrap
 
 ---
 
 ### Fusion Stress Tester Pro
-[![Repo](https://img.shields.io/badge/GitHub-fusion--stress--tester--pro-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/fusion-stress-tester-pro)
+[![Repo](https://img.shields.io/badge/GitHub-fusion--stress--tester--pro-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/fusion-stress-tester-pro)
 
-Professional stress-testing and diagnostics utility for CPU, RAM, GPU, storage, and network performance.
+System diagnostics and stress-testing tool for CPU, memory, GPU, storage, and network performance.
 
 **Stack:** Python, CustomTkinter, psutil, system monitoring
 
 ---
 
 ### Win11-to-Win10 Transformer
-[![Repo](https://img.shields.io/badge/GitHub-Win11--to--Win10--Transformer-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/Win11-to-Win10-Transformer)
+[![Repo](https://img.shields.io/badge/GitHub-Win11--to--Win10--Transformer-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/Win11-to-Win10-Transformer)
 
-Windows shell customization toolkit designed to restore the classic Windows 10 experience on Windows 11 systems.
+Windows customization toolkit for restoring a more familiar Windows 10 experience on Windows 11 systems.
 
 **Stack:** C#, .NET, Windows Registry APIs
 
 ---
 
 ### esp32_nat_router
-[![Repo](https://img.shields.io/badge/GitHub-esp32_nat_router-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/esp32_nat_router)
+[![Repo](https://img.shields.io/badge/GitHub-esp32_nat_router-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/esp32_nat_router)
 
-Embedded NAT router and firewall project for ESP32-based networking and smart connectivity experiments.
+Embedded NAT router and firewall project designed for ESP32-based networking use cases.
 
 **Stack:** C, ESP32, Embedded Systems, Networking
 
 ---
 
 ### WireTapper
-[![Repo](https://img.shields.io/badge/GitHub-WireTapper-181717?style=for-the-badge&logo=github)](https://github.com/Itszeeshanrajput/WireTapper)
+[![Repo](https://img.shields.io/badge/GitHub-WireTapper-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/WireTapper)
 
-Wireless intelligence and OSINT-focused project for discovering nearby devices and analyzing radio signals.
+Wireless OSINT and intelligence project focused on nearby device discovery and radio-based analysis.
 
 **Stack:** HTML, JavaScript, Wireless Analysis, Security Research
 
@@ -145,7 +146,7 @@ Wireless intelligence and OSINT-focused project for discovering nearby devices a
 - Expanding into AI-assisted and high-performance engineering
 - Improving embedded, networking, and firmware solutions
 - Writing cleaner, maintainable software with strong documentation
-- Collaborating on impactful, practical open-source projects
+- Collaborating on impactful and practical open-source work
 
 ---
 
