@@ -21,6 +21,9 @@ curl -sL https://raw.githubusercontent.com/Itszeeshanrajput/Itszeeshanrajput/mai
   *Stack:* Python, Flask, WebSockets, SQLite, Chart.js
 
 #### 🔌 Firmware & Embedded Systems
+* **[mobile-firmware-internals](https://github.com/Itszeeshanrajput/mobile-firmware-internals)** — Comprehensive engineering reference on modern mobile SoC bootloaders, partition maps, Emergency Download Modes (EDL / BROM) * **[wafford](https://github.com/Itszeeshanrajput/wafford)** recovery toolchains.
+  *Stack:* ARM64, Qualcomm EDL 9008, MediaTek BROM, AVB 2.0, UFS/eMMC
+
 * **[wafford](https://github.com/Itszeeshanrajput/wafford)** — Modern terminal UI (TUI) framework for 802.11 wireless security auditing, beacon monitoring, PMKID capture, and GPS wardriving export.  
   *Stack:* Python 3.12, Textual, Scapy, SQLite, Hashcat
 
@@ -56,9 +59,9 @@ curl -sL https://raw.githubusercontent.com/Itszeeshanrajput/Itszeeshanrajput/mai
 
 <!-- TELEMETRY:START -->
 ```text
-[SYSTEM TELEMETRY] • Automated Health Check: 2026-11-05 19:03 UTC
+[SYSTEM TELEMETRY] • Automated Health Check: 2026-11-05 19:05 UTC
 ├─ Core Runtimes:      Python 3.12 (FastAPI/Scapy) • C++ (ESP-IDF) • C# (.NET) • Node.js
-├─ Ecosystem Scale:    9 Native Repositories • 22 Community Stars
+├─ Ecosystem Scale:    10 Native Repositories • 22 Community Stars
 ├─ Quality Standard:   100% Open Source Community Health Across Core Repositories
 └─ Operational Status: All Systems Operational • Actively Maintained
 ```
