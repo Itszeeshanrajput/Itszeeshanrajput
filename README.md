@@ -1,177 +1,120 @@
 <div align="center">
-  <h1 style="color:#E6EDF3; font-size:36px; margin-bottom:8px;">Hi, I'm Zeeshan Rajput</h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave" />
-</div>
+
+<!-- Hero Banner SVG / Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,45&height=220&section=header&text=ZEESHAN%20RAJPUT&fontSize=42&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Mobile%20Firmware%20%E2%80%A2%20Algorithmic%20Finance%20%E2%80%A2%20Security&descFontSize=16&descAlignY=62&fontColor=00D9FF" width="100%" alt="Header Banner" />
 
 <p align="center">
-  <a href="https://github.com/Itszeeshanrajput" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@Itszeeshanrajput-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:itszeeshanrajput@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/zeeshan-rajput" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/404innovator" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://itszeeshanrajput.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://github.com/Itszeeshanrajput"><img src="https://img.shields.io/badge/GitHub-@Itszeeshanrajput-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/zeeshan-rajput"><img src="https://img.shields.io/badge/LinkedIn-Zeeshan_Rajput-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/404innovator"><img src="https://img.shields.io/badge/X-@404innovator-0D1117?style=for-the-badge&logo=x&logoColor=00D9FF" alt="Twitter" /></a>
+  <a href="mailto:itszeeshanrajput@gmail.com"><img src="https://img.shields.io/badge/Email-itszeeshanrajput@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itszeeshanrajput&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Itszeeshanrajput?label=Followers&style=social&color=58A6FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Itszeeshanrajput?label=Stars&style=social&color=00D9FF" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Itszeeshanrajput&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Itszeeshanrajput?label=Followers&style=flat-square&color=00D9FF&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Itszeeshanrajput?label=Total%20Stars&style=flat-square&color=00D9FF" alt="Total Stars" />
 </p>
 
----
-
-## About Me
-
-I build practical, high-impact systems across engineering, automation, and product-focused software development.
-
-My work spans:
-
-- Mobile firmware and recovery engineering
-- Full-stack application development
-- Automated trading systems and financial tooling
-- Embedded and networking projects
-- Performance optimization and diagnostics
-
-I enjoy turning complex problems into clean, reliable, and scalable solutions.
-
----
-
-## Professional Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Building+production-grade+algorithmic+trading+systems...;Engineering+firmware+and+embedded+networking+tools...;Architecting+system+diagnostics+and+defensive+fuzzers...;High-performance+systems+from+metal+to+user-space." alt="Typing SVG" />
+</p>
 
 </div>
+
+---
+
+### ⚡ Engineering Focus & Tech Matrix
 
 ```text
-Languages:      Python • C# • C++ • JavaScript • Java • Kotlin
-Frameworks:     FastAPI • Flask • .NET • React • Next.js
-Domains:        Mobile Firmware • Trading Systems • Embedded • Security • Systems
-Databases:      SQLite • PostgreSQL • MongoDB • Redis
-Tools:          Git • Docker • GitHub Actions • CI/CD • Linux • Windows
+┌────────────────────────────┬─────────────────────────────────────────────────────────┐
+│ Domain                     │ Primary Technologies & Systems                          │
+├────────────────────────────┼─────────────────────────────────────────────────────────┤
+│ 🔌 Firmware & Embedded     │ ESP32 • ESP-IDF • PlatformIO • C/C++ • Mobile SoC ROMs  │
+│ 📈 Algorithmic Trading     │ Python • FastAPI • MT5 API • Quantitative Analytics     │
+│ 🖥️ OS & Systems Internals  │ C# • .NET • Windows Registry APIs • Hardware Telemetry  │
+│ 🛡️ Security & Auditing     │ WAF Fuzzing • Payload Evasion • Protocol Diagnostics    │
+└────────────────────────────┴─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Featured Projects
+### 🚀 Production & Flagship Repositories
 
-### MT5 TradeBot API
-[![Repo](https://img.shields.io/badge/GitHub-mt5--tradebot--api-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/mt5-tradebot-api)
-
-Professional API for MetaTrader 5 automation, order execution, backtesting, and risk-driven trading workflows.
-
-**Stack:** Python, FastAPI, MetaTrader5, Pandas, NumPy, Redis
-
----
-
-### TradeEngine
-[![Repo](https://img.shields.io/badge/GitHub-TradeEngine-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/TradeEngine)
-
-Automation platform for forex trading with analytics, dashboard control, and account orchestration.
-
-**Stack:** Python, Flask, SQLite, Chart.js, Bootstrap
-
----
-
-### Fusion Stress Tester Pro
-[![Repo](https://img.shields.io/badge/GitHub-fusion--stress--tester--pro-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/fusion-stress-tester-pro)
-
-System diagnostics and stress-testing tool for CPU, memory, GPU, storage, and network performance.
-
-**Stack:** Python, CustomTkinter, psutil, system monitoring
-
----
-
-### Win11-to-Win10 Transformer
-[![Repo](https://img.shields.io/badge/GitHub-Win11--to--Win10--Transformer-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/Win11-to-Win10-Transformer)
-
-Windows customization toolkit for restoring a more familiar Windows 10 experience on Windows 11 systems.
-
-**Stack:** C#, .NET, Windows Registry APIs
-
----
-
-### esp32_nat_router
-[![Repo](https://img.shields.io/badge/GitHub-esp32_nat_router-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/esp32_nat_router)
-
-Embedded NAT router and firewall project designed for ESP32-based networking use cases.
-
-**Stack:** C, ESP32, Embedded Systems, Networking
-
----
-
-### WireTapper
-[![Repo](https://img.shields.io/badge/GitHub-WireTapper-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itszeeshanrajput/WireTapper)
-
-Wireless OSINT and intelligence project focused on nearby device discovery and radio-based analysis.
-
-**Stack:** HTML, JavaScript, Wireless Analysis, Security Research
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itszeeshanrajput&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itszeeshanrajput&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Itszeeshanrajput&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=58A6FF&fire=00D9FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Itszeeshanrajput/mt5-tradebot-api">MT5 TradeBot REST API</a></h3>
+      <p align="center">
+        <a href="https://github.com/Itszeeshanrajput/mt5-tradebot-api"><img src="https://img.shields.io/github/stars/Itszeeshanrajput/mt5-tradebot-api?color=00D9FF&style=flat-square" alt="Stars" /></a>
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square" alt="Python" />
+      </p>
+      <p>High-performance REST API designed for MetaTrader 5 order routing, live telemetry, strategy backtesting, and automated risk control.</p>
+      <p><b>Stack:</b> FastAPI • MetaTrader 5 • Pandas • NumPy • Redis</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Itszeeshanrajput/Win11-to-Win10-Transformer">Win11 to Win10 Transformer</a></h3>
+      <p align="center">
+        <a href="https://github.com/Itszeeshanrajput/Win11-to-Win10-Transformer"><img src="https://img.shields.io/github/stars/Itszeeshanrajput/Win11-to-Win10-Transformer?color=00D9FF&style=flat-square" alt="Stars" /></a>
+        <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square" alt="C#" />
+      </p>
+      <p>Low-level Windows customization engine featuring 40+ atomic registry tweaks, system restore snapshots, and full UI rollbacks.</p>
+      <p><b>Stack:</b> C# • .NET • Windows API • Registry Architecture</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Itszeeshanrajput/TradeEngine">TradeEngine Orchestrator</a></h3>
+      <p align="center">
+        <a href="https://github.com/Itszeeshanrajput/TradeEngine"><img src="https://img.shields.io/github/stars/Itszeeshanrajput/TradeEngine?color=00D9FF&style=flat-square" alt="Stars" /></a>
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square" alt="Python" />
+      </p>
+      <p>Multi-account forex automation ecosystem with live Flask control panel, pluggable indicator strategies, and execution telemetry.</p>
+      <p><b>Stack:</b> Python • Flask • Chart.js • SQLite • WebSockets</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Itszeeshanrajput/fusion-stress-tester-pro">Fusion Stress Tester Pro</a></h3>
+      <p align="center">
+        <a href="https://github.com/Itszeeshanrajput/fusion-stress-tester-pro"><img src="https://img.shields.io/github/stars/Itszeeshanrajput/fusion-stress-tester-pro?color=00D9FF&style=flat-square" alt="Stars" /></a>
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square" alt="Python" />
+      </p>
+      <p>Hardware diagnostics utility for extreme component stress-testing across multi-core CPUs, system RAM, GPUs, and high-throughput disk I/O.</p>
+      <p><b>Stack:</b> Python • CustomTkinter • psutil • Hardware Telemetry</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Itszeeshanrajput/wafford">Wafford — WAF Security Fuzzer</a></h3>
+      <p align="center">
+        <a href="https://github.com/Itszeeshanrajput/wafford"><img src="https://img.shields.io/badge/Security-Audit-red?style=flat-square" alt="Security" /></a>
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square" alt="Python" />
+      </p>
+      <p>Advanced Web Application Firewall detection and payload evasion testing framework with customizable wordlists and heuristic reporting.</p>
+      <p><b>Stack:</b> Python • Async I/O • Threat Modeling • Fuzzing</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Itszeeshanrajput/esp32_nat_router">ESP32 AI NAT Router & Firewall</a></h3>
+      <p align="center">
+        <a href="https://github.com/Itszeeshanrajput/esp32_nat_router"><img src="https://img.shields.io/badge/Embedded-ESP32-purple?style=flat-square" alt="ESP32" /></a>
+        <img src="https://img.shields.io/badge/Language-C-orange?style=flat-square" alt="C" />
+      </p>
+      <p>Embedded networking firmware providing hardware-accelerated packet forwarding, firewall filtering, and packet analysis on the ESP32.</p>
+      <p><b>Stack:</b> C • ESP-IDF • FreeRTOS • Layer 3/4 Networking</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Current Focus
+### 📊 Telemetry & Languages
 
-- Building production-ready automation and monitoring systems
-- Expanding into AI-assisted and high-performance engineering
-- Improving embedded, networking, and firmware solutions
-- Writing cleaner, maintainable software with strong documentation
-- Collaborating on impactful and practical open-source work
-
----
-
-## Connect
-
-If you're building in any of the following areas, I’d love to connect:
-
-- firmware and embedded systems
-- trading automation
-- system optimization
-- network security and tooling
-- backend platforms and developer tools
-
-- GitHub: https://github.com/Itszeeshanrajput
-- Email: itszeeshanrajput@gmail.com
-- LinkedIn: https://linkedin.com/in/zeeshan-rajput
-- Twitter: https://twitter.com/404innovator
-- Portfolio: https://itszeeshanrajput.dev
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itszeeshanrajput&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itszeeshanrajput&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="175" alt="Top Languages" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Code+with+purpose.+Build+with+impact." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <i>Built with curiosity, engineering discipline, and a passion for meaningful software.</i>
-</p>
+<div align="center">
+  <sub>Engineered by <b>Zeeshan Rajput (404innovator)</b> • Turning complex problems into clean, high-performance software.</sub>
+</div>
