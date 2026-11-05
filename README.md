@@ -4,6 +4,11 @@ I am a systems engineer and firmware specialist focused on low-level device tool
 
 I work across the boundary between silicon and user-space—from flashing and unbricking mobile SoC firmware (MediaTek, Qualcomm, Tensor, Exynos) and writing embedded ESP32 network tools, to building low-latency MetaTrader 5 execution APIs in Python.
 
+```bash
+# Terminal Fast-Path (run anywhere in your terminal):
+curl -sL https://raw.githubusercontent.com/Itszeeshanrajput/Itszeeshanrajput/main/card.sh | bash
+```
+
 ---
 
 ### What I Build
@@ -44,6 +49,20 @@ I work across the boundary between silicon and user-space—from flashing and un
 | **Firmware & Low-Level** | C, C++, ESP-IDF, FreeRTOS, PlatformIO, MTK / Snapdragon / Tensor / Exynos SoC diagnostics |
 | **Backend & Trading** | Python, FastAPI, Flask, MetaTrader 5 API, Redis, ZeroMQ, WebSockets, Pandas |
 | **Systems & Security** | C#, .NET, Win32 / NT Registry, Linux, Scapy, 802.11 Monitor Mode, Hashcat |
+
+---
+
+### 📡 Live Systems Telemetry
+
+<!-- TELEMETRY:START -->
+```text
+[SYSTEM TELEMETRY] • Automated Health Check: 2026-11-05 19:03 UTC
+├─ Core Runtimes:      Python 3.12 (FastAPI/Scapy) • C++ (ESP-IDF) • C# (.NET) • Node.js
+├─ Ecosystem Scale:    9 Native Repositories • 22 Community Stars
+├─ Quality Standard:   100% Open Source Community Health Across Core Repositories
+└─ Operational Status: All Systems Operational • Actively Maintained
+```
+<!-- TELEMETRY:END -->
 
 ---
 
