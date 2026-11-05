@@ -89,8 +89,8 @@
         <a href="https://github.com/Itszeeshanrajput/wafford"><img src="https://img.shields.io/badge/Security-Audit-red?style=flat-square" alt="Security" /></a>
         <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square" alt="Python" />
       </p>
-      <p>Advanced Web Application Firewall detection and payload evasion testing framework with customizable wordlists and heuristic reporting.</p>
-      <p><b>Stack:</b> Python • Async I/O • Threat Modeling • Fuzzing</p>
+      <p>Modern TUI (Textual) + CLI framework for 802.11 WiFi security auditing, packet analysis, PMKID attacks, GPS wardriving, and multi-format reporting.</p>
+      <p><b>Stack:</b> Python • Python 3.12 • Textual TUI • Scapy • SQLite • Hashcat</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Itszeeshanrajput/esp32_nat_router">ESP32 AI NAT Router & Firewall</a></h3>
